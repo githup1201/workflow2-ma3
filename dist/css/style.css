@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+  color: white;
+}
+img {
+  max-height: 600px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}

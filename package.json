@@ -1,0 +1,18 @@
+{
+  "name": "thirdmodule",
+  "version": "1.0.0",
+  "description": "Workflow 2 module assignment 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marianne Grimstad",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^4.0.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
